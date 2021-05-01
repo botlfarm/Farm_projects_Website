@@ -1,1 +1,7 @@
 site_name: BOTL Farm
+
+nav:
+    - Home: index.md
+    - About: about.md
+    
+theme: readthedocs
